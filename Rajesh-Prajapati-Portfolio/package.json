@@ -1,0 +1,8 @@
+{
+  "name": "rajesh-prajapati-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A dependency-free, visual data engineering portfolio for Rajesh Prajapati.",
+  "scripts": {"build": "node tools/build.mjs"},
+  "engines": {"node": ">=18"}
+}
